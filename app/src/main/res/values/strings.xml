@@ -1,0 +1,29 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="menu_action_toggle_string">Toggle Grid</string>
+
+    <string name="hello_blank_details_fragment">Select a character from the left</string>
+
+    <string name="title_activity_details" translatable="false">DetailsActivity</string>
+
+    <string name="recycler_img_description">Character icon image</string>
+
+    <string name="details_background_img_description">Background Image Description</string>
+    <string name="details_fragment_add_favorites_button">Add to favorites</string>
+    <string name="details_fragment_remove_favorites_button">Remove from favorites</string>
+
+    <string name="activity_main_name">Home</string>
+    <string name="activity_details_name">Details</string>
+
+    <string name="placeholder_text">Loading</string>
+
+    <string name="menu_header_more">More</string>
+    <string name="menu_location_home">Home</string>
+    <string name="menu_location_share">Share</string>
+    <string name="menu_location_about">About</string>
+    <string name="menu_header_title">Menu</string>
+    <string name="edwin_hernandez">Edwin Hernandez</string>
+    <string name="march_2016">March 2016</string>
+</resources>
